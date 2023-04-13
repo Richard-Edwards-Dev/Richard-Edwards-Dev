@@ -61,7 +61,7 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
       <h3 align="center">Old Town Barbers</h3>
         <br />
         <a target="_blank" href="https://budget-tracker-100devs.herokuapp.com/">
-            <img src="https://user-images.githubusercontent.com/99290888/188750992-228bf34f-a0c5-4ccd-9302-0f8e0618f77e.png" alt="notes"/>
+            <img src="https://github.com/Richard-Edwards-Dev/Richard-Edwards-Dev/blob/ac3774397ed82666f9efe79d2fc95f6e9dcd1a37/images/Oldtown%20Barbers.png" alt="notes"/>
         </a>
         <br />
         <p align="center">
