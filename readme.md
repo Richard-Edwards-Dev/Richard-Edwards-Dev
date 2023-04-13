@@ -22,7 +22,7 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/Clearcoin-mkII">
+        <a target="_blank" href="https://richard-edwards.netlify.app/">
             <img src="https://github.com/Richard-Edwards-Dev/Richard-Edwards-Dev/blob/f97041eca770b5f6f4487a86ac35bab784709dc1/images/Portfolio.png"/>
         </a>
         <br />
@@ -31,7 +31,7 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
   <a href="https://github.com/jarrodmjack/Clearcoin-mkII">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://clearcoinmkii.herokuapp.com/" target="_blank">
+  <a href="https://novel-idea.netlify.app//" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
