@@ -79,7 +79,7 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
       <h3 align="center">Wayfinder</h3>
         <br />
       <a target="_blank" href="https://aquaadvisor.netlify.app/">
-            <img src="http://www.jbl.de/images/apps/areas/aquarium/essentials/aquarium_food/medium/gesellschaftsaquarium/01-gesellschaft2.png" width="100%"  alt="aquarium"/>
+            <img src="https://github.com/Richard-Edwards-Dev/Richard-Edwards-Dev/blob/ac3774397ed82666f9efe79d2fc95f6e9dcd1a37/images/Oldtown%20Barbers.png" width="100%"  alt="aquarium"/>
         </a>
         <br />
         <p align="center">
