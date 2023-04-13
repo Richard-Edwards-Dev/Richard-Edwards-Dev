@@ -23,7 +23,7 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/Clearcoin-mkII">
-            <img src="https://user-images.githubusercontent.com/99290888/195200680-5a4d042c-f9c5-4b2c-a278-e0d7b3b49b20.jpg"/>
+            <img src="https://github.com/Richard-Edwards-Dev/Richard-Edwards-Dev/blob/615830cf4bd43e0a72e97c339e2c81567dbc8bf8/images/Portfolio.png"/>
         </a>
         <br />
         <p align="center">
