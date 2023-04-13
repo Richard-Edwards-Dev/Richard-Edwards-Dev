@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">
-I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stack Software Development, <br />Open-source, Web Accessiblity and Design. I like to create and contribute to projects and create web applications that are responsive, powerful and accessible to all.
+I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stack Software Development, <br />Open-source, Web Accessiblity and Design. I like to create and contribute to projects and web applications that are responsive, powerful and accessible to all.
 
 <h6 align="center">Languages and Tools:</h6>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
