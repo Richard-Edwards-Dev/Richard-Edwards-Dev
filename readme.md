@@ -75,7 +75,7 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
       </p>
         <p><strong>JavaScript/CSS/HTML</strong> - A clean and fast website for a local barbershop</p>
     </td>
-   <td width="50%" valign="top">
+<!--    <td width="50%" valign="top">
       <h3 align="center">Wayfinder</h3>
         <br />
       <a target="_blank" href="https://aquaadvisor.netlify.app/">
@@ -92,7 +92,7 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
   </a>
       </p>
         <p><strong>Javascript/MongoDB/Node.js/Express/EJS/CSS</strong> - A full-stack application for managing Pathfinder2e characters</p>
-    </td> 
+    </td>  -->
   </tr>
 	
 </table>
