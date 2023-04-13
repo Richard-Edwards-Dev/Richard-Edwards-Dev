@@ -41,7 +41,7 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
       <h3 align="center">Novel Idea</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/social-networking-app">
-            <img src="https://user-images.githubusercontent.com/99290888/191862798-060db48a-fe53-4f05-a0fa-e3e7ffebf3b8.jpg" alt="notes"/>
+            <img src="https://github.com/Richard-Edwards-Dev/Richard-Edwards-Dev/blob/786e1c3070413e38b7547d1058253c939fed540f/images/Novel%20Idea.png" alt="notes"/>
         </a>
         <br />
         <p align="center">
